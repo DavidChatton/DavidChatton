@@ -10,7 +10,7 @@
 <img align="center" alt="GIF" src="https://github.com/DavidChatton/DavidChatton/blob/main/code.gif" width="500" height="320" />
   
 
-<p align="center"> - 🌱 I’m currently learning PHP </p>  
+
 <p align="center">  - 📫 How to reach me m.davidchatton@hotmail.fr </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
